@@ -1,9 +1,6 @@
 # 🏥 Hospital Emergency Room Dashboard
 **Power BI · DAX · Healthcare Analytics · Apr 2023 – Oct 2024**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-7B2D8B?style=flat)
-![Healthcare](https://img.shields.io/badge/Healthcare-DC2626?style=flat)
 
 ---
 
@@ -123,25 +120,25 @@ Week Day     = WEEKDAY('Date Table'[Date], 2)
 
 | File | Description |
 |---|---|
-| `Hospital_Emergency_room_Dashboard.pbit` | Power BI template — 4-page report |
-| `Hospital_ER_Data.csv` | Raw dataset — 9,216 rows × 12 columns |
-| `Hospital_dashboard_DAX_Code.xlsx` | All DAX measures & calculated columns |
+|[Power Bi Report ](https://github.com/abhisheknirmal02-lab/Hospital-Emergency-Room-Report-/blob/main/Hospital%20Emergency%20room%20%20Dashboard.pbit) | Power BI template — 4-page report |
+| [Hospital data](https://github.com/abhisheknirmal02-lab/Hospital-Emergency-Room-Report-/blob/main/Hospital%20ER_Data.csv) | Raw dataset — 9,216 rows × 12 columns |
+| [DAX Code](https://github.com/abhisheknirmal02-lab/Hospital-Emergency-Room-Report-/blob/main/Hospital%20%20dashboard%20DAX%20Code.xlsx) | All DAX measures & calculated columns |
 
 ---
 
 ## 🖼️ Dashboard Preview
 
 **Page 1 — Consolidated View**
-![Consolidated View](Consolidated_View.png?raw=true)
+![Consolidated View]()
 
 **Page 2 — Monthly View**
-![Monthly View](Monthly_view.png?raw=true)
+![Monthly View]()
 
 **Page 3 — Patient Details**
-![Patient Details](Patient_Details.png?raw=true)
+![Patient Details]()
 
 **Page 4 — Key Takeaways**
-![Key Takeaways](Key_Takeways.png?raw=true)
+![Key Takeaways]()
 
 ---
 
