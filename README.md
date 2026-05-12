@@ -129,16 +129,16 @@ Week Day     = WEEKDAY('Date Table'[Date], 2)
 ## 🖼️ Dashboard Preview
 
 **Page 1 — Consolidated View**
-![Consolidated View]()
+![Consolidated View](https://github.com/abhisheknirmal02-lab/Hospital-Emergency-Room-Report-/blob/main/Consolidated%20View.png)
 
 **Page 2 — Monthly View**
-![Monthly View]()
+![Monthly View](https://github.com/abhisheknirmal02-lab/Hospital-Emergency-Room-Report-/blob/main/Monthly%20view.png)
 
 **Page 3 — Patient Details**
-![Patient Details]()
+![Patient Details](https://github.com/abhisheknirmal02-lab/Hospital-Emergency-Room-Report-/blob/main/Patient%20Details.png)
 
 **Page 4 — Key Takeaways**
-![Key Takeaways]()
+![Key Takeaways](https://github.com/abhisheknirmal02-lab/Hospital-Emergency-Room-Report-/blob/main/Key%20Takeways.png)
 
 ---
 
