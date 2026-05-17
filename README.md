@@ -1,4 +1,4 @@
-# 🏥 Hospital Emergency Room Dashboard
+# 🏥 Hospital Emergency Room Analysis Dashboard
 **Power BI · DAX · Healthcare Analytics · Apr 2023 – Oct 2024**
 
 
